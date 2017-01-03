@@ -54,7 +54,7 @@ public class Rental {
     }
 
     public double getBasePrice(){
-        return 0;
-    }
+        // Calculation of Price.
+   }
 
 }
